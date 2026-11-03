@@ -19,6 +19,7 @@ uv run --with adaption --with jupyterlab jupyter lab
 | Runbook                                                       | Docs                                                            |                                                                                                                                                                                                   |
 | ------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [AutoScientist quickstart](autoscientist/autoscientist.ipynb) | [guide](https://docs.adaptionlabs.ai/autoscientist-quickstart/) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adaptionlabs/adaption-runbooks/blob/main/autoscientist/autoscientist.ipynb) |
+| [Adaptive Data: Extend Trajectories](adaptivedata/extend-trajectories/extendtrajectories.ipynb) | [guide](https://docs.adaptionlabs.ai/adaptive-data/extend-trajectories/) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adaptionlabs/adaption-runbooks/blob/main/adaptivedata/extend-trajectories/extendtrajectories.ipynb) |
 
 ## Layout
 
