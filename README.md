@@ -1,6 +1,6 @@
 # Adaption Runbooks
 
-Runnable notebooks for the [Adaption API](https://docs.adaptionlabs.ai). Open one in Colab or run it locally to go through a complete workflow from start to finish.
+Runnable notebooks for the [Adaption API](https://docs.adaptionlabs.ai). Open one in Colab or run it locally to go through a complete workflow from start to finish. Browse them all on the [Runbooks overview](https://docs.adaptionlabs.ai/runbooks/overview/).
 
 ## Getting started
 
